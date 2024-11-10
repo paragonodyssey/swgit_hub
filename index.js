@@ -1,6 +1,7 @@
-//Sample js code
+// Sample js code
+// Removed function call
 
-setInterval(currentTime, 1000);
+//setInterval(currentTime, 1000);
 
 function currentTime()
 {
@@ -45,4 +46,4 @@ function currentTime()
   dayIntro.innerHTML = presentDay;
 }
 
-currentTime();  //calling currentTime() function to initiate the process 
+//currentTime();  //calling currentTime() function to initiate the process 
